@@ -1,0 +1,95 @@
+1. 🧠 Cognitive Symbiote Agents (CogRec Architecture)
+Inspired by: arXiv paper on CogRec - fusing LLMs with Soar cognitive architecture
+
+The Crazy Idea: Build an agent that has TWO minds running simultaneously:
+
+A symbolic reasoning engine (like Soar) for rule-based logic
+An LLM for natural language understanding and creative reasoning
+They debate internally before making decisions, creating explainable AI
+Project: A personal tutor that can explain exactly why it's teaching something, with traceable reasoning chains.
+
+2. 🌊 Recursive Language Model Agents (RLM)
+Inspired by: arXiv paper "Recursive Language Models"
+
+The Crazy Idea: An agent that can call itself as a subroutine! Unlike traditional agents, this creates:
+
+Self-referential reasoning loops
+Hierarchical decomposition of problems
+Agents that spawn mini-versions of themselves for subtasks
+Project: A codebase refactoring agent that recursively analyzes and rewrites itself to become better at refactoring.
+
+3. ⚡ Agent Lightning - Zero-Code RL Training
+Inspired by: Microsoft Research (Dec 2025)
+
+The Crazy Idea: Wrap ANY existing agent framework (LangChain, CrewAI, AutoGen) with a "lightning wrapper" that automatically:
+
+Captures every action as training data
+Applies reinforcement learning without touching original code
+Agents improve themselves overnight from their own logs
+Project: Deploy this on a customer service bot - it learns from every conversation automatically!
+
+4. 🎮 SIMA 2 - The Gaming Agent Collective
+Inspired by: Google DeepMind's SIMA 2 (Nov 2025)
+
+The Crazy Idea: Build an agent that:
+
+Learns to play ANY video game by watching you play
+Can reason about 3D spatial environments
+Transfers skills between games
+Becomes your persistent gaming companion that remembers strategies
+Project: An AI Dungeon Master that creates and populates entire game worlds in real-time.
+
+5. ⏰ SentinelStep - Patient Agents That Wait
+Inspired by: Microsoft Research "Tell Me When" (Oct 2025)
+
+The Crazy Idea: Agents that operate on human time scales:
+
+Set up monitoring tasks that run for days/weeks
+Agent "sleeps" but maintains state
+Wakes up only when conditions are met
+Perfect for tracking stocks, competitor pricing, job postings
+Project: A "Life Assistant" that monitors for the perfect apartment, flight deal, and job opportunity simultaneously.
+
+6. 🏪 Magentic Marketplace - Agent Economy Simulator
+Inspired by: Microsoft Research (Nov 2025)
+
+The Crazy Idea: A simulated economy where AI agents are the only participants:
+
+Agents buy and sell services from each other
+Study emergent economic behaviors
+Test agent negotiation and trust dynamics
+Watch AI agents form alliances and competition
+Project: Build a micro-economy where coding agents hire testing agents who hire deployment agents.
+
+7. 🦇 RedCodeAgent/BlueCodeAgent - Adversarial Security Swarm
+Inspired by: Microsoft Research (Nov 2025)
+
+The Crazy Idea: Two adversarial agent teams in constant battle:
+
+Red Team: Tries to find vulnerabilities in code
+Blue Team: Defends and patches in real-time
+They evolve together in an arms race
+The battlefield is your production codebase
+Project: Deploy this on any GitHub repo - have agents red-team your code 24/7.
+
+8. 🧬 CASCADE - Self-Evolving Skills Library
+Inspired by: arXiv paper "Cumulative Agentic Skill Creation through Autonomous Development and Evolution"
+
+The Crazy Idea: An agent that:
+
+Automatically discovers new skills while working
+Composes primitive skills into complex skills
+Maintains a living "skill genome" that evolves
+Skills can be shared between agent instances
+Project: A materials science agent that autonomously discovers and documents new synthesis procedures.
+
+9. 🔮 LoongFlow - Directed Evolution Search
+Inspired by: arXiv paper on cognitive Plan-Execute-Summarize paradigm
+
+The Crazy Idea: Use evolutionary algorithms on agent thinking:
+
+Generate multiple "thought mutation paths"
+Let thoughts compete for resources
+Surviving thoughts breed new ideas
+Darwinian selection on reasoning chains
+Project: An AI research assistant that evolves hypotheses and experiments in a virtual lab.
